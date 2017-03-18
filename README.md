@@ -43,4 +43,4 @@ Runtime动态添加方法的简单实现
 - 3.在需要的地方动态添加方法,先引用头文件，然后通过performSelector调用方法
 
 ![dynamicADD.png](http://upload-images.jianshu.io/upload_images/2231137-6a5262f541e930f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
-##Runtime动态添加方法的实现Demo
+
